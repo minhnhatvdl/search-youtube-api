@@ -1,0 +1,12 @@
+.flexRowCenter {
+    display: flex!important;
+    flex-direction: row;
+    align-items: center;
+}
+.item img {
+    width: 200px;
+    cursor: pointer;
+}
+.header {
+    cursor: pointer;
+}
